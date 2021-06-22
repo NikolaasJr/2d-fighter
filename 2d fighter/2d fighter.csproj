@@ -48,6 +48,8 @@
   <ItemGroup>
     <Compile Include="charter 1.cs" />
     <Compile Include="charter1.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="floor.cs" />
     <Compile Include="H:\Form1.cs">
       <SubType>Form</SubType>
       <Link>Form1.cs</Link>
@@ -58,6 +60,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Traingles.cs" />
     <EmbeddedResource Include="H:\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
       <Link>Form1.resx</Link>
@@ -90,6 +93,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Platform.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
