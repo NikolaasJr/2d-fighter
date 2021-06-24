@@ -26,6 +26,9 @@ namespace _2d_fighter
             spaceRec = new Rectangle(x, y, width, height);
 
         }
+
+
+
         public void Drawcharter(Graphics g)
         {
 
