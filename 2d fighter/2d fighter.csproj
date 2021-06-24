@@ -48,7 +48,6 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="charter 1.cs" />
     <Compile Include="charter1.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="floor.cs" />
